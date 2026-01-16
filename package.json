@@ -1,13 +1,18 @@
 {
-  "publisher": "your-name",
+  "publisher": "luckySnail",
   "name": "theme-switcher",
   "displayName": "Theme Switcher",
   "version": "0.0.1",
   "private": true,
   "packageManager": "pnpm@10.27.0",
   "description": "Quickly switch themes with status bar, command palette, and auto time-based switching",
-  "author": "Your Name",
+  "author": "luckySnail",
   "license": "MIT",
+  "homepage": "https://luckysnail.cn/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderPerseus/theme-switcher"
+  },
   "categories": [
     "Themes",
     "Other"

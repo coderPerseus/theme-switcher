@@ -30,6 +30,10 @@ Quickly switch VS Code themes with status bar, command palette, and auto time-ba
 | `theme-switcher.toggleAutoSwitch`  | Theme Switcher: Toggle Auto Switch |
 | `theme-switcher.configureSchedule` | Theme Switcher: Configure Schedule |
 
+## Acknowledgements
+
+- thanks https://github.com/antfu : https://github.com/antfu/starter-vscode
+
 ## License
 
 MIT
